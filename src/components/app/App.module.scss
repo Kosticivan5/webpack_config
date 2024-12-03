@@ -1,0 +1,16 @@
+.button {
+  background-color: rgb(13, 74, 76);
+  color: white;
+  transition: all 0.3s ease;
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+
+.value {
+  font-size: 100px;
+}
+
+.svgIconColor {
+  color: rgb(125, 53, 192);
+}
